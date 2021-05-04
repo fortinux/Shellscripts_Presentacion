@@ -1,1 +1,2 @@
-# Shellscripts_Presentacion
+# Shell scripts Presentación
+Primeros apuntes del curso de shell scripts 
