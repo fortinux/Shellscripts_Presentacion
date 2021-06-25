@@ -1,5 +1,9 @@
 # Aprendiendo a programar shell scripts en GNU/Linux   
 Shell scripts. Aprendiendo a programar en shell scripts GNU/Linux por Marcelo Horacio Fortino. Versión 1.2. Junio 2021.    
+
+Esta obra está sujeta a la licencia Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/4.0/. Puede hallar permisos más allá de los concedidos con esta licencia en https://fortinux.com.    
+    
+Sugerencias y comentarios a info@fortinux.com    
      
 Primeros apuntes del curso de shell scripts. Proximamente iré agregando más.        
 ## TEMARIO        
